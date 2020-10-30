@@ -1,1 +1,2 @@
 I have began to learn git.
+add a new line
